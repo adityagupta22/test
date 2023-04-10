@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Adarsh Nagar, Jaipur - RSPCB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.836858,
+                    26.902909
+                ]
+            }
+        }
+    ]
+}
